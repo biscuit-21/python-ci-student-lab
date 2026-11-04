@@ -1,4 +1,3 @@
-# Purpose: Automated test
 from main import add
 
 
