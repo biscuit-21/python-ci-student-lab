@@ -1,1 +1,2 @@
-// Python dependencies list
+# Purpose: Python dependencies list
+pytest
