@@ -5,6 +5,8 @@ from main import add
 def test_add():
     assert add(3, 2) == 5
 
+def negative_test_add():
+    assert add(3, 2) != -1
 
 def test_add_zero():
     assert add(7, 0) == 7
